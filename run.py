@@ -50,7 +50,7 @@ def main():
         normalise=configs['data']['normalise']
     )
 
-    '''
+    '''asdsd
 	# in-memory training
 	model.train(
 		x,
